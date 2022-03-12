@@ -1,5 +1,0 @@
----
-question: Hello, world1234!
-buttons:
-  - Exit: exit
-mandatory: True
